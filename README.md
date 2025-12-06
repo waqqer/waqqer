@@ -5,4 +5,5 @@
 #### I Know:
 - `C#`
     - Unity
+    - Entity Framework Core
 - `Java`
