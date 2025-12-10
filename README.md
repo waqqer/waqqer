@@ -3,7 +3,7 @@
 
 ---
 #### I Know:
-> - `C#`
+- `C#`
     - Unity
     - Entity Framework Core
 - `Java`
