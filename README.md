@@ -7,3 +7,5 @@
     - Unity
     - Entity Framework Core
 - `Java`
+- `Python`
+    - Disnake
