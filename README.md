@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Woqqa
 
-**A passionate .NET Developer** crafting digital experiences through code. I specialize in building interactive games, robust backend systems, and engaging chatbot ecosystems.
+A passionate **.NET Developer** who writes code to make digital experiences. I have an expertise in creating interactive games, strong backend systems or fun chatbot ecosystems.
 
 ---
 
 ## 🚀 Specializations
 
-*   **🎮 Game Development:** Creating immersive experiences using Unity and C#.
-*   **⚙️ Backend Development:** Building scalable and efficient server-side applications with the .NET ecosystem.
-*   **🤖 Chat Bots:** Developing feature-rich automation and interaction bots for Discord & Telegram platforms.
+- **🎮 Game Development:** Building engaging experiences with **Unity** and **C#**.
+- **⚙️ Backend Development:** Designing and architecting scalable, nimble backend applications using **.NET** ecosystem.
+- **🤖 Chat Bots:** Developing fully featured automation & interaction bots for Discord & Telegram.
 
 ---
 
@@ -27,6 +27,12 @@
 ### **⚡ Frameworks & Platforms**
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+- **C#**:
+    - **DSharpPlus**
+    - **Entity Framework Core**
+- **Python:**
+    - **Disnake**
 
 ### **🗄️ Databases & Tools**
 ![Sqlite](https://img.shields.io/badge/sqlite-%252307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
