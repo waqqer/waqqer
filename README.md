@@ -16,7 +16,7 @@ A passionate **.NET Developer** who writes code to make digital experiences. I
 
 ### **💻 Core Languages**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### **🎨 Frontend & Markup**
@@ -27,12 +27,6 @@ A passionate **.NET Developer** who writes code to make digital experiences. I
 ### **⚡ Frameworks & Platforms**
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-- **C#**:
-    - **DSharpPlus**
-    - **Entity Framework Core**
-- **Python:**
-    - **Disnake**
 
 ### **🗄️ Databases & Tools**
 ![Sqlite](https://img.shields.io/badge/sqlite-%252307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
