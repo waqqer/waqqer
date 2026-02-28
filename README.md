@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=waqqer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=waqqer&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=300" alt="streak graph"  />
 </div>
 
 ###
