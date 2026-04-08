@@ -4,6 +4,10 @@
 
 <p align="center">I am developing chat bots for <b>Telegram</b> / <b>Discord</b>, and <br> I'm also interested in <b>Frontend</b> and <b>Backend</b> development.</p>
 
+<div align="center">
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36463">
+</div>
+
 ###
 
 <h2 align="center">My Tech Stack</h2>
