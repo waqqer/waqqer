@@ -14,7 +14,7 @@
 
 ###
 
-<table align="center">
+  <table align="center">
   <tr>
     <td align="center"><b>Game Dev</b></td>
     <td align="start">
@@ -40,6 +40,14 @@
     </td>
   </tr>
 </table>
+
+###
+
+<h2 align="center">Now learning</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka&perline=8"/>
+</div>
 
 ###
 
