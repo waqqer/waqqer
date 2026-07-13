@@ -14,27 +14,36 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo" title="Dart"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" title="Flutter"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" title="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" title="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo" title="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" title="C#"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>Game Dev</b></td>
+    <td align="start">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,unity"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="start">
+      <img src="https://skillicons.dev/icons?i=vite,react,html,css,js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="start">
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,express,prism"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="start">
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+    </td>
+  </tr>
+</table>
 
 ###
+
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=waqqer&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=300" alt="streak graph"  />
