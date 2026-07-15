@@ -46,7 +46,7 @@
 <h2 align="center">Now learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,redis,postgres&perline=8"/>
 </div>
 
 ###
