@@ -34,6 +34,12 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="start">
+      <img src="https://skillicons.dev/icons?i=redis"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>Database</b></td>
     <td align="start">
       <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
@@ -46,7 +52,7 @@
 <h2 align="center">Now learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,redis,postgres&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,postgres&perline=8"/>
 </div>
 
 ###
