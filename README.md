@@ -30,7 +30,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=nodejs,ts,express,prism"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,express,prisma,go"/>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
 <h2 align="center">Now learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,postgres&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,postgres&perline=8"/>
 </div>
 
 ###
