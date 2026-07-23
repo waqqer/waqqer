@@ -18,7 +18,7 @@
   <tr>
     <td align="center"><b>Game Dev</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,unity"/>
+      <img src="https://skillicons.dev/icons?i=cs,unity"/>
     </td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=nodejs,ts,express,prisma,go"/>
+      <img src="https://skillicons.dev/icons?i=ts,express,prisma,go"/>
     </td>
   </tr>
   <tr>
