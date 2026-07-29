@@ -24,13 +24,13 @@
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=vite,react,html,css,js"/>
+      <img src="https://skillicons.dev/icons?i=vite,react,html,css,ts"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=ts,express,prisma,go"/>
+      <img src="https://skillicons.dev/icons?i=ts,express,go"/>
     </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@
   <tr>
     <td align="center"><b>Database</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,prisma"/>
     </td>
   </tr>
 </table>
