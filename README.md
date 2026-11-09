@@ -14,7 +14,7 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=go,python,html,css,ts,js,cs"/>
+      <img src="https://skillicons.dev/icons?i=go,python,html,css,ts,js,cs&perline=5"/>
     </td>
   </tr>
   <tr>
