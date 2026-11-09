@@ -12,27 +12,21 @@
 
   <table align="center">
   <tr>
-    <td align="center"><b>Game Dev</b></td>
+    <td align="center"><b>Languages</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=cs,unity"/>
+      <img src="https://skillicons.dev/icons?i=go,python,html,css,ts,js,cs"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Lib & Frameworks</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=vite,react,html,css,ts"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="start">
-      <img src="https://skillicons.dev/icons?i=ts,express,go"/>
+      <img src="https://skillicons.dev/icons?i=react,express,nest"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
     <td align="start">
-      <img src="https://skillicons.dev/icons?i=redis"/>
+      <img src="https://skillicons.dev/icons?i=redis,vite"/>
     </td>
   </tr>
   <tr>
@@ -48,7 +42,7 @@
 <h2 align="center">Now learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,rabbitmq,kafka&perline=8"/>
 </div>
 
 ###
